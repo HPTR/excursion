@@ -3,7 +3,7 @@
 ## Info
 This is a project completed for the Codecademy Full Stack career path course. This project had the user re-create a website using an example of the desired webpage, and a redline mockup of the page containing specific CSS design information.
 
-<img src="resources/img/excursion_page.webp" width="320" height="484.5"> <img src="resources/img/excursion_redline.webp" width="320" height="484.5">
+<img src="resources/img/excursion_page.webp" width="420" height="584.5"> <img src="resources/img/excursion_redline.webp" width="420" height="584.5">
 
 ***
 
