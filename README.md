@@ -10,7 +10,7 @@ This is a project completed for the Codecademy Full Stack career path course. Th
 
 ## Visit the site
 
-You can visit the site by clicking on this link: https://hptr.github.io/excursion
+You can visit the site by clicking on this link: <a target="_blank" href="https://hptr.github.io/excursion">HPTR.github.io/excursion</a>
 
 ***
 
